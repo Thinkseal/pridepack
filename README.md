@@ -17,7 +17,7 @@ We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [M
 <img src="https://rawcdn.githack.com/Nu-Git/blurryface/433edb005503d3502d0abfae2354e993cc7b25c4/pridecraft/5.0/images/description/BIIS%20EVERYWHERE.png?raw=true">
 
 ## Where else is this avaliable?
-[![Get on Modrinth](https://rawcdn.githack.com/Nu-Git/blurrybadges/88c6971e38f189d9dc9393c8a4933974559c3c1d/badges/64h/Avaliable%20on%20Modrinth.png)](https://modrinth.com/resourcepack/pridepack) [![Get on CurseForge](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/curseforge_vector%201.png?raw=true)](https://www.curseforge.com/minecraft/texture-packs/pride-pack) [![Get on GitHub](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/Avaliable%20on%20Github.png?raw=true)](https://github.com/Pridecraft-Studios/pridepack) [![Stolen by TLMods](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/Stolen%20By%20TLMods.png?raw=true)](https://tlmods.org/en/resourcepacks/pride-pack/) [![Get on PMC](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/Avaliable%20On%20PMC.png?raw=true)](https://www.planetminecraft.com/member/canalnu/) [
+[![Get on Modrinth](https://rawcdn.githack.com/Nu-Git/blurrybadges/88c6971e38f189d9dc9393c8a4933974559c3c1d/badges/64h/Avaliable%20on%20Modrinth.png)](https://modrinth.com/resourcepack/pridepack) [![Get on CurseForge](https://rawcdn.githack.com/Nu-Git/blurrybadges/88c6971e38f189d9dc9393c8a4933974559c3c1d/badges/64h/curseforge_vector%201.png?raw=true)](https://www.curseforge.com/minecraft/texture-packs/pride-pack) [![Get on GitHub](https://rawcdn.githack.com/Nu-Git/blurrybadges/88c6971e38f189d9dc9393c8a4933974559c3c1d/badges/64h/Avaliable%20on%20Github.png?raw=true)](https://github.com/Pridecraft-Studios/pridepack) [![Stolen by TLMods](https://rawcdn.githack.com/Nu-Git/blurrybadges/88c6971e38f189d9dc9393c8a4933974559c3c1d/badges/64h/Stolen%20By%20TLMods.png?raw=true)](https://tlmods.org/en/resourcepacks/pride-pack/) [![Get on PMC](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/Avaliable%20On%20PMC.png?raw=true)](https://www.planetminecraft.com/member/canalnu/) [
 ![Get on CurseRinth](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/Avaliable%20on%20Curserinth.png?raw=true)](https://curserinth.kuylar.dev/resourcepack/respack__pride-pack)
 ## Socials
 [![Join the Discord](https://github.com/Nu-Git/questionmark-badges/blob/main/badges/1Xpng/Join%20the%20Discord@1x.png?raw=true)](https://discord.pridecraft.gay)
@@ -27,6 +27,6 @@ We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [M
 [![Compatibble with VulkanMod (Probably)](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20VulkanMod.png?raw=true)](https://modrinth.com/mod/vulkanmod) [![Compatible with Canvas Renderer](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20Canvas.png?raw=true)](https://modrinth.com/mod/canvas)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzMDU5ODY4LC0xMjc3NDAyMzQ1LDE0OD
-U4MDkwMTcsLTEzNDIxMDIwOTksMTE5NDc5MTU2M119
+eyJoaXN0b3J5IjpbLTM5ODY5NjE3MiwtMTI3NzQwMjM0NSwxND
+g1ODA5MDE3LC0xMzQyMTAyMDk5LDExOTQ3OTE1NjNdfQ==
 -->
