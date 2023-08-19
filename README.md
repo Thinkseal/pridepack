@@ -3,13 +3,12 @@
 This is PridePack. A Resource Pack made by [Pridecraft Studios](https://github.com/pridecraft-studios). We make Minecraft queer.
 We also have compatibility with some mods, such as [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture). If you want to see your  or any other mod be gayed without making it look like all flat rainbows, create an [Issue](https://github.com/Pridecraft-Studios/pridepack-modded/issues/new) on GitHub detailing your suggestion. New mods will go to Pridepack Modded.
 ## Who
-We're [Pridecraft Studios](https://pridepack.gay): A team that makes LGBT stuff to Minecraft. We're working on [PridePack](https://github.com/Pridecraft-Studios/PridePack), [PrideMod](https://github.com/Pridecraft-Studios/PrideMod), and many other [projects](https://github.com/orgs/Pridecraft-Studios/repositories).
+We're [Pridecraft Studios](https://pridecraft.gay): A team that makes LGBT stuff to Minecraft. We're working on [PridePack](https://github.com/Pridecraft-Studios/PridePack), [PrideMod](https://github.com/Pridecraft-Studios/PrideMod), and many other [projects](https://github.com/orgs/Pridecraft-Studios/repositories).
 [![ko-fi](https://rawcdn.githack.com/intergrav/devins-badges/1aec26abb75544baec37249f42008b2fcc0e731f/assets/cozy/donate/kofi-plural_vector.svg)](https://ko-fi.com/W7W4NLJWR)
 ## How can I test new stuff out?
 You can join our [Discord](https://discord.pridecraft.gay) and get early features sneak-peaks, or check out the [GitHub Releases](https://github.com/pridecraft-studios/pridepack)
 ## How can I contribute?
-You can help us translate Pridepack to more laguages on [Crowdin](https://crowdin.com/project/pridepack/settings)
-[![Crowdin](https://badges.crowdin.net/pridepack/localized.svg)](https://crowdin.com/project/pridepack)
+You can help us translate Pridepack to more laguages on [Crowdin](https://crowdin.com/project/pridepack/settings) [![Crowdin](https://badges.crowdin.net/pridepack/localized.svg)](https://crowdin.com/project/pridepack)
 ## What mods are currently supported?
 Currently, the only themed mod is [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture), which is avaliable on the base Pridepack resource pack.
 We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [More Axolotl Variants Mod](https://modrinth.com/mod/mavm) (*could be added to Pridemod instead*), [Botania](https://modrinth.com/mod/botania) (gay tater :thonk:) and many other mods we get suggestions for
@@ -27,7 +26,7 @@ We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [M
 [![Compatibble with VulkanMod (Probably)](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20VulkanMod.png?raw=true)](https://modrinth.com/mod/vulkanmod) [![Compatible with Canvas Renderer](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20Canvas.png?raw=true)](https://modrinth.com/mod/canvas)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyOTc3NDYsMTU5OTQ0Mzg2NCwtMTI3Nz
-QwMjM0NSwxNDg1ODA5MDE3LC0xMzQyMTAyMDk5LDExOTQ3OTE1
-NjNdfQ==
+eyJoaXN0b3J5IjpbLTE4OTQwMDUwMDUsMzEyOTc3NDYsMTU5OT
+Q0Mzg2NCwtMTI3NzQwMjM0NSwxNDg1ODA5MDE3LC0xMzQyMTAy
+MDk5LDExOTQ3OTE1NjNdfQ==
 -->
